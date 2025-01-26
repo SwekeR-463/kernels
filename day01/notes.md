@@ -27,4 +27,4 @@
 
 ### Issue Faced
 
-The main issue I faced was profiling. As the blog is old
+The main issue I faced was profiling, as the blog is old.
