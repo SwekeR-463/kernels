@@ -1,4 +1,4 @@
-## 100 Days of CUDA
+## 100 Days of Kernels
 
 ---
 
