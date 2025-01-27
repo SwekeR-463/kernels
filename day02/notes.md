@@ -3,7 +3,6 @@
 - [x] PMPP CH2
 - [x] Improved Vector Addition Kernel
 - [x] Vector Multiplication Kernel
-- [x] Test the speed against Pytorch Vector Multiplication
 
 ---
 
