@@ -10,3 +10,6 @@
 
 ---
 
+* [Day - 3](https://github.com/SwekeR-463/100kernels/blob/master/day03/notes.md) -> **Matrix Transpose Kernel & RGB to GreyScale Kernel**
+
+--
