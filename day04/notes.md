@@ -1,4 +1,4 @@
 ### To - Do's 
-- [x] Matrix Add Kernel
+- [x] Matrix Addition Kernel
 
 ### Notes
