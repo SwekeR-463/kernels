@@ -14,6 +14,10 @@
 
 ---
 
-* [Day - 4](https://github.com/SwekeR-463/100kernels/blob/master/day04/notes.md) -> **Vector Addition Kernel**
+* [Day - 4](https://github.com/SwekeR-463/100kernels/blob/master/day04/notes.md) -> **Matrix Addition Kernel**
+
+---
+
+* [Day - 5](https://github.com/SwekeR-463/100kernels/blob/master/day05/notes.md) -> **Matrix Multiplication Kernel**
 
 ---
