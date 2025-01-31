@@ -21,3 +21,7 @@
 * [Day - 5](https://github.com/SwekeR-463/100kernels/blob/master/day05/notes.md) -> **Matrix Multiplication Kernel**
 
 ---
+
+* [Day - 6](https://github.com/SwekeR-463/100kernels/blob/master/day06/notes.md) -> **Naive Softmax Kernel**
+
+---
