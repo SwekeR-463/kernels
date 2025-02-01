@@ -25,3 +25,7 @@
 * [Day - 6](https://github.com/SwekeR-463/100kernels/blob/master/day06/notes.md) -> **Naive Softmax Kernel**
 
 ---
+
+* [Day - 7](https://github.com/SwekeR-463/100kernels/blob/master/day07/notes.md) -> **Lightning Attention Kernel**
+
+---
