@@ -29,3 +29,7 @@
 * [Day - 7](https://github.com/SwekeR-463/100kernels/blob/master/day07/notes.md) -> **Lightning Attention Kernel**
 
 ---
+
+* [Day - 8](https://github.com/SwekeR-463/100kernels/blob/master/day08/notes.md) -> **Tiled Matrix Multiplication Kernel**
+
+---
