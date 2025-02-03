@@ -33,3 +33,7 @@
 * [Day - 8](https://github.com/SwekeR-463/100kernels/blob/master/day08/notes.md) -> **Tiled Matrix Multiplication Kernel**
 
 ---
+
+* [Day - 9](https://github.com/SwekeR-463/100kernels/blob/master/day09/notes.md) -> **Better Softmax Kernel**
+
+---
