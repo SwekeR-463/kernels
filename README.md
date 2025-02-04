@@ -37,3 +37,7 @@
 * [Day - 9](https://github.com/SwekeR-463/100kernels/blob/master/day09/notes.md) -> **Better Softmax Kernel**
 
 ---
+
+* [Day - 10](https://github.com/SwekeR-463/100kernels/blob/master/day10/notes.md) -> **Image Blur Kernel**
+
+---
