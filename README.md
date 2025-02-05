@@ -41,3 +41,7 @@
 * [Day - 10](https://github.com/SwekeR-463/100kernels/blob/master/day10/notes.md) -> **Image Blur Kernel**
 
 ---
+
+* [Day - 11](https://github.com/SwekeR-463/100kernels/blob/master/day11/notes.md) -> **Sigmoid Kernel**
+
+---
