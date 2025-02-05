@@ -36,3 +36,5 @@ start = time.time()
 output_cuda = cuda_sigmoid(input_data.numpy())
 cuda_time = time.time() - start
 print(f"CUDA time: {cuda_time:.6f} seconds")
+# PyTorch time: 0.004542 seconds
+# CUDA time: 0.140152 seconds
