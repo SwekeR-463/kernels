@@ -45,3 +45,7 @@
 * [Day - 11](https://github.com/SwekeR-463/100kernels/blob/master/day11/notes.md) -> **Sigmoid Kernel**
 
 ---
+
+* [Day - 12](https://github.com/SwekeR-463/100kernels/blob/master/day11/notes.md) -> **Partial Sum Kernel**
+
+---
