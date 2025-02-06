@@ -46,6 +46,10 @@
 
 ---
 
-* [Day - 12](https://github.com/SwekeR-463/100kernels/blob/master/day11/notes.md) -> **Partial Sum Kernel**
+* [Day - 12](https://github.com/SwekeR-463/100kernels/blob/master/day12/notes.md) -> **Partial Sum Kernel**
+
+---
+
+* [Day - 13](https://github.com/SwekeR-463/100kernels/blob/master/day13/notes.md) -> **Partial Sum Kernel**
 
 ---
