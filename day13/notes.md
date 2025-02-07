@@ -1,6 +1,7 @@
 ### To-Do's
 - [x] CH7
 - [x] 1d Basic Conv Kernel
+- [x] 1d Tiled Cached Conv Kernel
 
 ### Notes
 * in high perf computing, conv pattern is referred to as stencil computation, which appears widely in numerical methods for solving differential equations
