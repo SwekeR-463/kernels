@@ -3,6 +3,7 @@
 
 #define SIZE 1000000
 
+// partial sum kernel
 __global__ void reductionKernel(float* X, float* output) {
     extern __shared__ float partialSum[]; // dynamic shared memory allocation
 

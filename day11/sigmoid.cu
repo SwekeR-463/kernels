@@ -3,6 +3,7 @@
 #include<random>
 #include<cuda_runtime.h>
 
+// sigmoid kernel
 __global__ void sigmoidKernel(const float* input, float* output, int n) {
     extern __shared__ float shared_input[];
     int idx = blockIdx.x * blockDim.x + threadIdx.x;
