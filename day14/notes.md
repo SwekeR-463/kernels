@@ -1,5 +1,4 @@
 ### To-Do's
-- [ ] 2D Conv Kernel
 - [x] Prefix Sum kernl
 - [x] CH8 PMPP
 
