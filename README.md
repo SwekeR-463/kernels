@@ -58,6 +58,6 @@
 
 ---
 
-* [Day - 15](https://github.com/SwekeR-463/100kernels/blob/master/day13=5/notes.md) -> **2D Convolutional Kernel**
+* [Day - 15](https://github.com/SwekeR-463/100kernels/blob/master/day15/notes.md) -> **2D Convolutional Kernel**
 
 ---
