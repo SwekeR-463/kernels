@@ -53,3 +53,11 @@
 * [Day - 13](https://github.com/SwekeR-463/100kernels/blob/master/day13/notes.md) -> **Basic 1D Kernel & Tiled Cached 1D Kernel**
 
 ---
+
+* [Day - 14](https://github.com/SwekeR-463/100kernels/blob/master/day14/notes.md) -> **Prefix Sum Kernel**
+
+---
+
+* [Day - 15](https://github.com/SwekeR-463/100kernels/blob/master/day13=5/notes.md) -> **2D Convolutional Kernel**
+
+---
