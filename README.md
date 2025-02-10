@@ -61,3 +61,7 @@
 * [Day - 15](https://github.com/SwekeR-463/100kernels/blob/master/day15/notes.md) -> **2D Convolutional Kernel**
 
 ---
+
+* [Day - 16](https://github.com/SwekeR-463/100kernels/blob/master/day16/notes.md) -> **Text Histogram Kernel**
+
+---
