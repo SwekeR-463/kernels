@@ -1,6 +1,6 @@
 ### To-Do's
-- [ ] Ch12 PMPP
-- [ ] BFS Kernel
+- [x] Ch12 PMPP
+- [x] BFS Kernel
 
 ### Notes
 * BFS is often used to discover the shortest number of edges that one needs to take in order to go from one vertex to another vertex of the graph
