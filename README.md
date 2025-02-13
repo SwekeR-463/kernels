@@ -65,3 +65,15 @@
 * [Day - 16](https://github.com/SwekeR-463/100kernels/blob/master/day16/notes.md) -> **Text Histogram Kernel**
 
 ---
+
+* [Day - 17](https://github.com/SwekeR-463/100kernels/blob/master/day17/notes.md) -> **CSR Kernel & JDS Kernel**
+
+---
+
+* [Day - 18](https://github.com/SwekeR-463/100kernels/blob/master/day18/notes.md) -> **Tiled Merge Sort Kernel**
+
+---
+
+* [Day - 19](https://github.com/SwekeR-463/100kernels/blob/master/day16/notes.md) -> **Parallelized BFS Kernel**
+
+---
