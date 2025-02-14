@@ -1,7 +1,7 @@
 ### To-Do's
 - [x] CH13 PMPP
-- [ ] Quadtree Kernel
-- [ ] ReLU Kernel
+- [x] ReLU Kernel
+- [x] Profiled against Pytorch ones
 
 ### Notes
 * CUDA Dynamic Parallelism is an extension to the CUDA programming model enabling a CUDA kernel to create new thread grids by launching new kernels
