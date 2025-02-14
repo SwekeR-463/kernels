@@ -74,6 +74,10 @@
 
 ---
 
-* [Day - 19](https://github.com/SwekeR-463/100kernels/blob/master/day16/notes.md) -> **Parallelized BFS Kernel**
+* [Day - 19](https://github.com/SwekeR-463/100kernels/blob/master/day19/notes.md) -> **Parallelized BFS Kernel**
+
+---
+
+* [Day - 20](https://github.com/SwekeR-463/100kernels/blob/master/day20/notes.md) -> **Parallelized BFS Kernel**
 
 ---
