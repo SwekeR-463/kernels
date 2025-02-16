@@ -81,3 +81,7 @@
 * [Day - 20](https://github.com/SwekeR-463/100kernels/blob/master/day20/notes.md) -> **Optimized ReLU Kernel**
 
 ---
+
+* [Day - 21](https://github.com/SwekeR-463/100kernels/blob/master/day20/notes.md) -> *Binary Cross Entropy Loss Kernel**
+
+---
