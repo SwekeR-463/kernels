@@ -82,6 +82,10 @@
 
 ---
 
-* [Day - 21](https://github.com/SwekeR-463/100kernels/blob/master/day20/notes.md) -> **Binary Cross Entropy Loss Kernel**
+* [Day - 21](https://github.com/SwekeR-463/100kernels/blob/master/day21/notes.md) -> **Binary Cross Entropy Loss Kernel**
+
+---
+
+* [Day - 22](https://github.com/SwekeR-463/100kernels/blob/master/day22/notes.md) -> **MRI Reconstruction Kernel**
 
 ---
