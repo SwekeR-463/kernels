@@ -89,3 +89,7 @@
 * [Day - 22](https://github.com/SwekeR-463/100kernels/blob/master/day22/notes.md) -> **MRI Reconstruction Kernel**
 
 ---
+
+* [Day - 23](https://github.com/SwekeR-463/100kernels/blob/master/day23/notes.md) -> **ConvNet Forward & Backward Kernel**
+
+---
