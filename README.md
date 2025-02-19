@@ -97,3 +97,7 @@
 * [Day - 24](https://github.com/SwekeR-463/100kernels/blob/master/day24) -> **cuBLAS dot product Kernel & cuBLAS convnet forward pass Kernel**
 
 ---
+
+* [Day - 25](https://github.com/SwekeR-463/100kernels/blob/master/day25) -> **cuBLAS GEMM Kernel**
+
+---
