@@ -101,3 +101,7 @@
 * [Day - 25](https://github.com/SwekeR-463/100kernels/blob/master/day25) -> **cuBLAS GEMM Kernel**
 
 ---
+
+* [Day - 26](https://github.com/SwekeR-463/100kernels/blob/master/day26/notes.md) -> **cuBLAS Strided Batched GEMM Kernel & Naive Layer Norm Kernel**
+
+---

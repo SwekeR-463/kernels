@@ -9,6 +9,6 @@
 * layer normalization performs exactly the same computation at training and test times
 * layer normalization directly estimates the normalization statistics from the summed inputs to the neurons within a hidden layer so the normalization does not introduce any new dependencies between training cases
 * it works well for RNNs and improves both the training time and the generalization performance of several existing RNN models
-* 
+* layer normalization does not impose any constraint on the size of the mini-batch and it can be used in the pure online regime with batch size 1
 ---
 ![alt text](image.png)
