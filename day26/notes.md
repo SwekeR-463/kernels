@@ -11,26 +11,4 @@
 * it works well for RNNs and improves both the training time and the generalization performance of several existing RNN models
 * 
 ---
-### LayerNorm Formulas
-
-### Input
-Let \( \mathbf{x} \) be the input vector of size \( d \) (feature dimension).
-
-### Mean
-Compute the mean \( \mu \) of the input vector:
-\[
-\mu = \frac{1}{d} \sum_{i=1}^{d} x_i
-\]
-
-### Variance
-Compute the variance \( \sigma^2 \) of the input vector:
-\[
-\sigma^2 = \frac{1}{d} \sum_{i=1}^{d} (x_i - \mu)^2
-\]
-
-### Normalization
-Normalize the input vector using the mean and variance:
-\[
-\hat{x}_i = \frac{x_i - \mu}{\sqrt{\sigma^2 + \epsilon}}
-\]
-where \( \epsilon \) is a small constant (e.g., \( 10^{-5} \)) added for numerical stability.
+![alt text](image.png)
