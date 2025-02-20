@@ -1,6 +1,6 @@
 ### To-Do's
 - [x] cuBLAS Strided Batched GEMM Kernel
-- [ ] Naive Layer Norm Kernel
+- [x] Naive Layer Norm Kernel
 
 ### Notes
 * one small observation that i found is that while playing around the batch count for the gemm, 32 & 64 were the sweet spot for the operation on my 4050 (6gb)
