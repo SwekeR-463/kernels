@@ -105,3 +105,11 @@
 * [Day - 26](https://github.com/SwekeR-463/100kernels/blob/master/day26/notes.md) -> **cuBLAS Strided Batched GEMM Kernel & Naive Layer Norm Kernel**
 
 ---
+
+* [Day - 27](https://github.com/SwekeR-463/100kernels/blob/master/day27/notes.md) -> **Optimized Layer Norm Kernel**
+
+---
+
+* [Day - 28](https://github.com/SwekeR-463/100kernels/blob/master/day28/notes.md) -> **Tensor Core Mat Mul Kernel & RMS Norm Kernel**
+
+---
