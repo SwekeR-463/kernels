@@ -18,6 +18,6 @@ $$
 \text{RMS}(x) = \sqrt{\frac{1}{d} \sum_{i=1}^{d} x_i^2 + \epsilon}
 $$
 
-- \( \gamma \) is a trainable scaling parameter.
-- \( \epsilon \) is a small constant for numerical stability.
+- \( gamma \) is a trainable scaling parameter.
+- \( epsilon \) is a small constant for numerical stability.
 - \( d \) is the dimensionality of \( x \).
