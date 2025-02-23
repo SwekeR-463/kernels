@@ -110,6 +110,10 @@
 
 ---
 
-* [Day - 28](https://github.com/SwekeR-463/100kernels/blob/master/day28/notes.md) -> **Tensor Core Mat Mul Kernel & RMS Norm Kernel**
+* [Day - 28](https://github.com/SwekeR-463/100kernels/blob/master/day28/notes.md) -> **RMS Norm Kernel**
+
+---
+
+* [Day - 28](https://github.com/SwekeR-463/100kernels/blob/master/day29/tc.cu) -> **Tensor Core Mat Mul Kernel & Optimized RMS Norm Kernel**
 
 ---
