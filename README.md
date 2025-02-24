@@ -114,6 +114,10 @@
 
 ---
 
-* [Day - 28](https://github.com/SwekeR-463/100kernels/blob/master/day29/tc.cu) -> **Tensor Core Mat Mul Kernel & Optimized RMS Norm Kernel**
+* [Day - 29](https://github.com/SwekeR-463/100kernels/blob/master/day29/tc.cu) -> **Tensor Core Mat Mul Kernel & Optimized RMS Norm Kernel**
+
+---
+
+* [Day - 30](https://github.com/SwekeR-463/100kernels/blob/master/day30/batchnorm.cu) -> **Batch Norm Kernel**
 
 ---
