@@ -121,3 +121,7 @@
 * [Day - 30](https://github.com/SwekeR-463/100kernels/blob/master/day30/batchnorm.cu) -> **Batch Norm Kernel**
 
 ---
+
+* [Day - 31](https://github.com/SwekeR-463/100kernels/blob/master/day31/gelu.cu) -> **GeLU Kernel**
+
+---
