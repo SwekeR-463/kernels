@@ -129,3 +129,7 @@
 * [Day - 32](https://github.com/SwekeR-463/100kernels/blob/master/day32/initnn.cu) -> **Parts of Neural Nets -> Mat Mul, Softmax, GeLU Kernels**
 
 ---
+
+* [Day - 32](https://github.com/SwekeR-463/100kernels/blob/master/day32/initnn.cu) -> **Parts of Neural Nets -> Cross Entropy, Forward Function Kernels & Data Processing Functions**
+
+---
