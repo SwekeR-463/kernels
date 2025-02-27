@@ -130,6 +130,6 @@
 
 ---
 
-* [Day - 32](https://github.com/SwekeR-463/100kernels/blob/master/day32/initnn.cu) -> **Parts of Neural Nets -> Cross Entropy, Forward Function Kernels & Data Processing Functions**
+* [Day - 32](https://github.com/SwekeR-463/100kernels/blob/master/day32/init2nn.cu) -> **Parts of Neural Nets -> Cross Entropy, Forward Function Kernels & Data Processing Functions**
 
 ---
