@@ -1,2 +1,2 @@
 ### To-Do's
-- [x] Full NN Training on MNIST Data
+- [x] Full NN Training on MNIST
