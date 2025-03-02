@@ -97,8 +97,8 @@ int main(int argc, char *argv[]) {
     double flops = 2.0 * m * n * k;
     double tflops = (flops / (time / 1000.0)) / 1e12;
 
-    printf("CUBLAS DGEMM Execution Time: %f ms\n", time);
-    printf("CUBLAS DGEMM TFLOPs: %f\n", tflops);
+    printf("CUBLAS GEMM Execution Time: %f ms\n", time);
+    printf("CUBLAS GEMM TFLOPs: %f\n", tflops);
 
     CUDA_CHECK(cudaFree(d_A));
     CUDA_CHECK(cudaFree(d_B));
@@ -116,5 +116,5 @@ int main(int argc, char *argv[]) {
     return EXIT_SUCCESS;
 
 }
-// CUBLAS DGEMM Execution Time: 88.636482 ms
-// CUBLAS DGEMM TFLOPs: 1.550591
+// CUBLAS GEMM Execution Time: 84.292160 ms
+// CUBLAS GEMM TFLOPs: 1.630507

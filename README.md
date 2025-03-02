@@ -141,3 +141,7 @@
 * [Day - 35](https://github.com/SwekeR-463/100kernels/blob/master/day35/nn.cu) -> **Full NN Training on MNIST**
 
 ---
+
+* [Day - 36](https://github.com/SwekeR-463/100kernels/blob/master/day36/sa.cu) -> **Self Attention Kernel**
+
+---
