@@ -69,7 +69,7 @@ int main() {
         Q[i] = static_cast<float>(rand()) / RAND_MAX;
         K[i] = static_cast<float>(rand()) / RAND_MAX;
         V[i] = static_cast<float>(rand()) / RAND_MAX;
-        output[i] = 0.0f; // Initialize output to 0
+        output[i] = 0.0f; // initialize output to 0
     }
 
     cudaEvent_t start, stop;
@@ -88,7 +88,7 @@ int main() {
 
     std::cout << "Kernel Execution Time: " << time << "ms" << std::endl;
 
-    /* Print the output
+    /* print the output
     printf("Output:\n");
     for (int i = 0; i < seq_len; ++i) {
         for (int j = 0; j < d_model; ++j) {
