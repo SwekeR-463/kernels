@@ -145,3 +145,7 @@
 * [Day - 36](https://github.com/SwekeR-463/100kernels/blob/master/day36/sa.cu) -> **Self Attention Kernel**
 
 ---
+
+* [Day - 36](https://github.com/SwekeR-463/100kernels/blob/master/day36/sa.cu) -> **Optimized Self Attention Kernel**
+
+---
