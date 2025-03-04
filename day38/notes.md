@@ -1,5 +1,5 @@
 ### To-Do's
-- [ ] Flash Attention Forward Pass
+- [x] Flash Attention Forward Pass
 
 ### Notes
 * flash attention processes attention in blocks to avoid excessive memory transfers between HRAM and SRAM, making it much more efficient
