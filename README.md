@@ -146,6 +146,10 @@
 
 ---
 
-* [Day - 36](https://github.com/SwekeR-463/100kernels/blob/master/day36/optsa.cu) -> **Optimized Self Attention Kernel**
+* [Day - 37](https://github.com/SwekeR-463/100kernels/blob/master/day37/optsa.cu) -> **Optimized Self Attention Kernel**
+
+---
+
+* [Day - 38](https://github.com/SwekeR-463/100kernels/blob/master/day38/flashattnfwd.cu) -> **Flash Attention Forward Pass Kernel**
 
 ---
