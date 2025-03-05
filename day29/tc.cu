@@ -5,7 +5,7 @@
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 
-#define WARP_SIZE 32 // to execute threads in groups of warps, and each warp consists of 32 threads
+#define WARP_SIZE 4 // to execute threads in groups of warps, and each warp consists of 4 threads
 
 // MMA matrix tile dimensions
 #define M 16
