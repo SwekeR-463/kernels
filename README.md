@@ -154,6 +154,10 @@
 
 ---
 
-* [Day - 39](https://github.com/SwekeR-463/100kernels/blob/master/day38/flashattnbwd.cu) -> **Flash Attention Backward Pass Kernel**
+* [Day - 39](https://github.com/SwekeR-463/100kernels/blob/master/day39/flashattnbwd.cu) -> **Flash Attention Backward Pass Kernel**
+
+---
+
+* [Day - 40](https://github.com/SwekeR-463/100kernels/blob/master/day40/tlvecadd.py) -> **Triton Vector Addition Kernel**
 
 ---
