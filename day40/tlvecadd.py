@@ -59,6 +59,44 @@ def add(x: torch.Tensor, y: torch.Tensor):
     
     return output
 
+# triton has set of builtin utilities that make it is easy to plot perf of the kernels we make
+# under the hood the below uses matplotlib
+
+@triton.testing.perf_report(
+    # this decorator tells triton that below func is a benchmark and what benchmark conditions to run
+    triton.testing.Benchmark(
+        x_names = ['size'],
+        x_vals = [2**i for i in range(12, 28, 1)],
+        x_log = True,
+        line_arg = 'provider',
+        line_vals = ['triton', 'torch'],
+        line_names = ['Triton', 'Torch'],
+        styles = [('blue', '-'), ('green', '-')],
+        ylabel = 'GB/s',
+        plot_name = 'vector-add-perf',
+        args = {},
+    )
+)
+
+# benchmark func
+def benchmark(size, provider):
+    x = torch.rand(size, device=DEVICE, dtype=torch.float32)
+    y = torch.rand(size, device=DEVICE, dtype=torch.float32)
+    
+    quantiles = [0.5, 0.05, 0.95] # each benchmark runs multiple times & quantiles tells matplotlib what confidence interval to plot
+    if provider == 'torch':
+        ms, min_ms, max_ms = triton.testing.do_bench(lambda: x + y, quantiles=quantiles)
+    if provider == 'triton':
+        ms, min_ms, max_ms = triton.testing.do_bench(lambda: add(x, y), quantiles=quantiles)
+        
+    gbps = lambda s: 3 * x.numel() * x.element_size() * 1e-9 / (s * 1e-3)
+    # 3 = no of memory ops (2 reads + 1 write)
+    # x.numel() = no of elements
+    # x.element_size() = bytes/element 
+    # 1e-9 converts bytes to GB
+    # 1e-3 converts ms to s
+    return gbps(ms), gbps(max_ms), gbps(min_ms) 
+
 
 def test_add_kernel(size, atol=1e-3, rtol=1e-3, device=DEVICE):
     torch.manual_seed(0)
@@ -72,3 +110,9 @@ def test_add_kernel(size, atol=1e-3, rtol=1e-3, device=DEVICE):
     
 if __name__ == "__main__":
     test_add_kernel(size=98432)
+    
+    # benchmark.run(print_data=True, show_plots=True)
+    
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "--benchmark":
+        benchmark.run(save_path='/home/sweker/work/cuda/day40', print_data=False)
