@@ -1,2 +1,2 @@
 ### To-Do's
-- [ ] Triton Mat Mul
+- [x] Triton Mat Mul

@@ -161,3 +161,7 @@
 * [Day - 40](https://github.com/SwekeR-463/100kernels/blob/master/day40/tlvecadd.py) -> **Triton Vector Addition Kernel**
 
 ---
+
+* [Day - 41](https://github.com/SwekeR-463/100kernels/blob/master/day41/tlmatmul.py) -> **Triton Mat Mul Kernel**
+
+---
