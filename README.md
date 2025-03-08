@@ -165,3 +165,7 @@
 * [Day - 41](https://github.com/SwekeR-463/100kernels/blob/master/day41/tlmatmul.py) -> **Triton Mat Mul Kernel**
 
 ---
+
+* [Day - 42](https://github.com/SwekeR-463/100kernels/blob/master/day42/tlfsoftmax.py) -> **Triton Fused Softmax Kernel**
+
+---
