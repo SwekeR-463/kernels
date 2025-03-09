@@ -169,3 +169,7 @@
 * [Day - 42](https://github.com/SwekeR-463/100kernels/blob/master/day42/tlfsoftmax.py) -> **Triton Fused Softmax Kernel**
 
 ---
+
+* [Day - 43](https://github.com/SwekeR-463/100kernels/blob/master/day43/rope.cu) -> **RoPE Kernel**
+
+---
