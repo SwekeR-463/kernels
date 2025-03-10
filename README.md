@@ -173,3 +173,7 @@
 * [Day - 43](https://github.com/SwekeR-463/100kernels/blob/master/day43/rope.cu) -> **RoPE Kernel**
 
 ---
+
+* [Day - 43](https://github.com/SwekeR-463/100kernels/blob/master/day44/tlrope.py) -> ** Triton RoPE Kernel**
+
+---
