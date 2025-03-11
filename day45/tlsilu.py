@@ -61,4 +61,4 @@ grad_x = silu_backward(grad_y, x, sigmoid_x)
 # compare with pytorch autograd
 y_torch = torch.nn.functional.silu(x)
 y_torch.backward(torch.ones_like(y_torch))  
-print(torch.allclose(x.grad, grad_x, atol=1e-6))  #  True
+print(torch.allclose(x.grad, grad_x, atol=1e-6))  # True
