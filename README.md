@@ -181,3 +181,7 @@
 * [Day - 45](https://github.com/SwekeR-463/100kernels/blob/master/day45/tlsilu.py) -> **Triton SiLU Kernel**
 
 ---
+
+* [Day - 46](https://github.com/SwekeR-463/100kernels/blob/master/day46/tlswiglu.py) -> **Triton SwiGLU Kernel**
+
+---
