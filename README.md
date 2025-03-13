@@ -185,3 +185,7 @@
 * [Day - 46](https://github.com/SwekeR-463/100kernels/blob/master/day46/tlswiglu.py) -> **Triton SwiGLU Kernel**
 
 ---
+
+* [Day - 47](https://github.com/SwekeR-463/100kernels/blob/master/day47/tlln.py) -> **Triton LayerNorm Forward Kernel**
+
+---
