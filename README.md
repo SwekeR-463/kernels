@@ -189,3 +189,7 @@
 * [Day - 47](https://github.com/SwekeR-463/100kernels/blob/master/day47/tlln.py) -> **Triton LayerNorm Forward Kernel**
 
 ---
+
+* [Day - 48](https://github.com/SwekeR-463/100kernels/blob/master/day48/tllln.py) -> **Triton LayerNorm Backward Kernel**
+
+---
