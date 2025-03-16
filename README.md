@@ -197,3 +197,7 @@
 * [Day - 49](https://github.com/SwekeR-463/100kernels/blob/master/day49/tlbn.py) -> **Triton BatchNorm Kernel**
 
 ---
+
+* [Day - 50](https://github.com/SwekeR-463/100kernels/blob/master/day50/tlsa.py) -> **Triton Self Attention Kernel**
+
+---
