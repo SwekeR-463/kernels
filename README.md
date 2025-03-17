@@ -201,3 +201,7 @@
 * [Day - 50](https://github.com/SwekeR-463/100kernels/blob/master/day50/tlsa.py) -> **Triton Self Attention Kernel**
 
 ---
+
+* [Day - 51](https://github.com/SwekeR-463/100kernels/blob/master/day51/density.cu) -> **Solid State Density Calculation Kernel**
+
+---
