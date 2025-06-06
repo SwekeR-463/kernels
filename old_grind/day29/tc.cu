@@ -108,7 +108,7 @@ cudaError_t CalcWMMA(half *A, half *B, float *C, float *D) {
     cudaEventElapsedTime(&time, start, stop);
 
     printf("[+] GPU (with Tensor Cores) Elapsed Time: %f ms\n", time);
-    printf("[+] TFLOPS: %.2f\n", ((double)M_TOTAL * N_TOTAL * K_TOTAL * 2) / time / 1e9);
+    printf("[+] TFLOPS: %.2f\n", ((double)M_TOTAL * N_TOTAL * K_TOTAL * 2) / (time * 1e9));
 
     cudaEventDestroy(start);
     cudaEventDestroy(stop);
@@ -165,5 +165,5 @@ int main() {
 
     return 0;
 }
-// [+] GPU (with Tensor Cores) Elapsed Time: 95.950851 ms
-// [+] TFLOPS: 1.43
+// [+] GPU (with Tensor Cores) Elapsed Time: 43.589630 ms
+// [+] TFLOPS: 3.15
