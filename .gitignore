@@ -3,4 +3,3 @@ requirements.txt
 Makefile
 torch_test
 torch.cpp
-elu
