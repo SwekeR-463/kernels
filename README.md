@@ -6,3 +6,4 @@ kernels of different DL funcs
 * ELU
 * GeLU
 * Sigmoid
+* ReLU
