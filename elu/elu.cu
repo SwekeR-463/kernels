@@ -30,6 +30,19 @@
 #define TORCH_BINDING_COMMON_EXTENSION(func)                                                       \
   m.def(STRINGIFY(func), &func, STRINGIFY(func));
 
+
+// elu calculation
+//fp32
+__device__ __forceinline__ float elu(float x){
+    return x > 0.f ? x : ALPHA * (expf(x) - 1.f);
+}
+
+//fp16
+__device__ __forceinline__ half elu_half(half x){
+    return __hgt(x, __float2half(0.f)) ? x : __hmul(__float2half(ALPHA), __hsub(hexp(x), __float2half(1.f))); // __hgt -> performs half unordered greater equal comparison
+    // all the operations here are half arithmetic ops
+}
+
 // fp32 elu kernel
 __global__ void elu_fp32_kernel(float *x, float *y, int N) {
   int idx = blockIdx.x * blockDim.x + threadIdx.x;
