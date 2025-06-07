@@ -3,7 +3,7 @@
 kernels of different DL funcs
 
 **activation**
-* ELU
+* ELU (fp32, fp16, fp16x2, fp16x8_packed )
 * GeLU
-* Sigmoid
+* Sigmoid (fp32, fp16, fp16x8_packed)
 * ReLU
