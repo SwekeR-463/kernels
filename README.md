@@ -7,3 +7,4 @@ kernels of different DL funcs
 * GeLU
 * Sigmoid (fp32, fp16, fp16x8_packed)
 * ReLU (fp32, fp16)
+* Swish (fp32, fp16)
